@@ -1,4 +1,7 @@
-# CellFindR
+# CellFindR 3.0
+
+## 1/27/2022
+Now CellFindR 3.0 (compatible with Seurat 4.0)
 
 ## 2/15/2021:
 General Release updated version 1: included vignette and function descriptors
